@@ -42,7 +42,7 @@ public class P4 {
         System.out.printf("\n The pay for %s is %.2f dollars.", bidder1, pay1);
         //for spacing
         System.out.printf("\n The pay for %s is %.2f dollars.", bidder2, pay2);
-        //for spacing
+        
         if (pay1 < pay2) {
             System.out.println("The winner is " + bidder1);
         }
